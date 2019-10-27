@@ -1,0 +1,38 @@
+Brain dump on presentation.
+talk about the process of the workflow
+include a null hypothesis
+provide closing thoughts
+compare the baseline to R^2
+provide some insight to the tax distribution
+
+Zach review of presentations:
+table with row highlighted
+model by county
+multiple visuals related to same target
+use tableau
+talk through the visualization explain what you see and take away
+clear title, to the point bullet
+interpret the statistics and explain the statistics
+findings up first
+tax rate by county simple eliminate noise
+process slide x - y - z
+correlation heat map is distracting
+use bar chart to show variables to eliminate noise
+
+IMPROVEMENTS:
+what is distribution of tax rates by county? many didnt answer
+conclusion slide
+lead with findings
+project goals restate then findings
+label the axis and title of the visualization
+transparency alpha to show clustering better on plot
+intertpretation of numbers R^2 and RMSE in plain english
+make sure your numbers have commas, percentages, and dollars
+limit the data
+talk through the visualization and what are the take aways
+limitations of results from the data
+data walkthrough the shape of the data
+its okay to drop values that are caused by human errors
+interdependence of independent variables
+seperate variables by combining them with weights or new 
+use discriptive language and explain the charts
